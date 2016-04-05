@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[2e Leatherworks]]></title>
         <description><![CDATA[2e Leatherworks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/2e-leatherworks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 20:17:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 20:17:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/2e-leatherworks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e25a8358-8a6d-43c9-852a-845b5e18890b.jpg">]]></description>
+            <link>https://thegrid.ai/2e-leatherworks/ponchos/index.html</link>
+            <guid isPermaLink="false">352969fc-540c-4a9c-b48c-93ce4b3dc59e</guid>
+            <pubDate>Tue, 05 Apr 2016 20:17:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>TO ORDER</p>]]></description>
-            <link>undefinedto-order/index.html</link>
+            <link>https://thegrid.ai/2e-leatherworks/to-order/index.html</link>
             <guid isPermaLink="false">253afe65-aa69-4ff6-a4b3-dc0740b1dc22</guid>
             <pubDate>Tue, 05 Apr 2016 20:17:01 GMT</pubDate>
         </item>
