@@ -1,7 +1,7 @@
 name: 2e Leatherworks
 favicon: null
-layout_spectrum: 0.5601498186588287
-typography_spectrum: 0.30342330504208803
+layout_spectrum: 1
+typography_spectrum: 0.30491
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.8351062394212931
-  lightness: 0.9052220941521227
-  saturation: 0.20935992104932666
-  rhythmicContrast: 0.8401103334035724
+    - '#fffffa'
+    - '#1e110b'
+    - '#6c6932'
+    - '#667dcb'
+    - '#cbbbbc'
+  brandStrength: 0.6875
+  lightness: 0.6875
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
