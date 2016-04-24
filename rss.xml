@@ -4,7 +4,7 @@
         <description><![CDATA[2e Leatherworks]]></description>
         <link>http://2eleather.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 03:23:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 03:23:17 GMT</lastBuildDate>
         <atom:link href="http://2eleather.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Holsters]]></title>
@@ -19,13 +19,6 @@
             <link>http://2eleather.com/handbags/index.html</link>
             <guid isPermaLink="false">cd9ffdfd-a4c9-40b4-a7d7-1291f5200617</guid>
             <pubDate>Fri, 15 Apr 2016 19:34:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent.xx.fbcdn.net/hphotos-xpf1/v/t1.0-9/1452241_929124083766964_5335886684154333843_n.jpg?oh=8d3346aefe39fcc53e3657318338e64f&oe=57BF50B1">]]></description>
-            <link>http://2eleather.com/e6cb1871-f4d1-456c-aacf-cfc70418b416/index.html</link>
-            <guid isPermaLink="false">e6cb1871-f4d1-456c-aacf-cfc70418b416</guid>
-            <pubDate>Sun, 24 Apr 2016 03:22:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>http://2eleather.com/66174b59-f718-4b0a-aea7-446f2c362750/index.html</link>
             <guid isPermaLink="false">66174b59-f718-4b0a-aea7-446f2c362750</guid>
             <pubDate>Sun, 24 Apr 2016 03:10:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent.xx.fbcdn.net/hphotos-xpa1/v/t1.0-9/1425588_715128108499897_1724159033_n.jpg?oh=59d81ee68932f1e76af9d997c9c37cd1&oe=57ABDEFD">]]></description>
+            <link>https://www.facebook.com/2eLeather/photos/pb.552413724771337.-2207520000.1460744167./715128108499897/?type=3&amp;theater</link>
+            <guid isPermaLink="false">0f401176-6215-4e41-8fba-1c07e3efa633</guid>
+            <pubDate>Fri, 15 Apr 2016 19:27:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
